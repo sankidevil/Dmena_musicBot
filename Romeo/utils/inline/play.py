@@ -13,25 +13,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     Romeo = math.floor(percentage)
     if 0 < Romeo <= 10:
-        bar = "RJ▇▇▇▇▇▇▇▇▇"
+        bar = "ᰔᩚ▇▇▇▇▇▇▇▇▇"
     elif 10 < Romeo < 20:
-        bar = "▇RJ▇▇▇▇▇▇▇▇"
+        bar = "▇ᰔᩚ▇▇▇▇▇▇▇▇"
     elif 20 <= Romeo < 30:
-        bar = "▇▇RJ▇▇▇▇▇▇▇"
+        bar = "▇▇ᰔᩚ▇▇▇▇▇▇▇"
     elif 30 <= Romeo < 40:
-        bar = "▇▇▇RJ▇▇▇▇▇▇"
+        bar = "▇▇▇ᰔᩚ▇▇▇▇▇▇"
     elif 40 <= Romeo < 50:
-        bar = "▇▇▇▇RJ▇▇▇▇▇"
+        bar = "▇▇▇▇ᰔᩚ▇▇▇▇▇"
     elif 50 <= Romeo < 60:
-        bar = "▇▇▇▇▇RJ▇▇▇▇"
+        bar = "▇▇▇▇▇ᰔᩚ▇▇▇▇"
     elif 60 <= Romeo < 70:
-        bar = "▇▇▇▇▇▇RJ▇▇▇"
+        bar = "▇▇▇▇▇▇ᰔᩚ▇▇▇"
     elif 70 <= Romeo < 80:
-        bar = "▇▇▇▇▇▇▇RJ▇▇"
+        bar = "▇▇▇▇▇▇▇ᰔᩚ▇▇"
     elif 80 <= Romeo < 95:
-        bar = "▇▇▇▇▇▇▇▇RJ▇"
+        bar = "▇▇▇▇▇▇▇▇ᰔᩚ▇"
     else:
-        bar = "▇▇▇▇▇▇▇▇▇RJ"
+        bar = "▇▇▇▇▇▇▇▇▇ᰔᩚ"
 
     buttons = [
         [
@@ -79,25 +79,25 @@ def telegram_markup_timer(_, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     Romeo = math.floor(percentage)
     if 0 < Romeo <= 10:
-        bar = "RJ▇▇▇▇▇▇▇▇▇"
+        bar = "ᰔᩚ▇▇▇▇▇▇▇▇▇"
     elif 10 < Romeo < 20:
-        bar = "▇RJ▇▇▇▇▇▇▇▇"
+        bar = "▇ᰔᩚ▇▇▇▇▇▇▇▇"
     elif 20 <= Romeo < 30:
-        bar = "▇▇RJ▇▇▇▇▇▇▇"
+        bar = "▇▇ᰔᩚ▇▇▇▇▇▇▇"
     elif 30 <= Romeo < 40:
-        bar = "▇▇▇RJ▇▇▇▇▇▇"
+        bar = "▇▇▇ᰔᩚ▇▇▇▇▇▇"
     elif 40 <= Romeo < 50:
-        bar = "▇▇▇▇RJ▇▇▇▇▇"
+        bar = "▇▇▇▇ᰔᩚ▇▇▇▇▇"
     elif 50 <= Romeo < 60:
-        bar = "▇▇▇▇▇RJ▇▇▇▇"
+        bar = "▇▇▇▇▇ᰔᩚ▇▇▇▇"
     elif 60 <= Romeo < 70:
-        bar = "▇▇▇▇▇▇RJ▇▇▇"
+        bar = "▇▇▇▇▇▇ᰔᩚ▇▇▇"
     elif 70 <= Romeo < 80:
-        bar = "▇▇▇▇▇▇▇RJ▇▇"
+        bar = "▇▇▇▇▇▇▇ᰔᩚ▇▇"
     elif 80 <= Romeo < 95:
-        bar = "▇▇▇▇▇▇▇▇RJ▇"
+        bar = "▇▇▇▇▇▇▇▇ᰔᩚ▇"
     else:
-        bar = "▇▇▇▇▇▇▇▇▇RJ"
+        bar = "▇▇▇▇▇▇▇▇▇ᰔᩚ"
 
     buttons = [
         [
