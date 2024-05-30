@@ -18,17 +18,17 @@
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "6509734752:AAHq0WRlHlA5oQurEHbzEwdjnBLhrRcE8YY",
+        "value": "7135966618:AAFSLklfXmeRLZF8gjcIrMJPFHQyacD5ETM",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
-        "value": "mongodb+srv://Devilmusic:poLgMY6bWVhpyMGG@cluster0.0bogl8n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://Legend:FCGAx2PjPCMyl2Kv@cluster0.pzuuckt.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "❦︎𝐃𝐡𝐚𝐝𝐤𝐚𝐧❥︎𝗠𝘂𝘀𝗶𝗰❦︎𝗕𝗼𝘁シ︎",
+        "value": "MЄЄƝƛ MƲƧƖƇ ƁƠƬ ",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -53,7 +53,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5606562055",
+        "value": "6973415610",
         "required": true
       },
       "STRING_SESSION": {
@@ -63,12 +63,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "-1001870600508",
+        "value": "-1002028836779",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/heartbeatbo",
+        "value": "https://t.me/Sonumeenaquizstore",
         "required": false
       },
       "SUPPORT_CHANNEL": {
