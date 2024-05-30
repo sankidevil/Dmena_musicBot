@@ -8,17 +8,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "26965889",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f0f95dc1f56e849ebb4bf7b6c5cdc531",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "",
+        "value": "6509734752:AAHq0WRlHlA5oQurEHbzEwdjnBLhrRcE8YY",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -28,7 +28,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "",
+        "value": "❦︎𝐃𝐡𝐚𝐝𝐤𝐚𝐧❥︎𝗠𝘂𝘀𝗶𝗰❦︎𝗕𝗼𝘁シ︎",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -43,12 +43,12 @@
       },
       "SPOTIFY_CLIENT_ID": {
         "description": "Spotify Client Id",
-        "value": "",
+        "value": "7cfbb3efeacf40a9a103fd8eb55c6b30",
         "required": false
       },
       "SPOTIFY_CLIENT_SECRET": {
         "description": "Spotify client secret",
-        "value": "",
+        "value": "3abee1a7d53b42adaaf14fb2f1a00cff",
         "required": false
       },
       "OWNER_ID": {
@@ -63,17 +63,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "-1001870600508",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/RomeoBot_OP",
+        "value": "https://t.me/heartbeatbo",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/Romeo_OP",
+        "value": "https://t.me/Classics0012",
         "required": false
       }
 
