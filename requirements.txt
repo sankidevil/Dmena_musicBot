@@ -59,3 +59,8 @@ youtube-search==2.1.2
 youtube-search-python==1.6.6
 git+https://github.com/RRomeoRJ0143/pytgcalls
 git+https://github.com/yt-dlp/yt-dlp
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
